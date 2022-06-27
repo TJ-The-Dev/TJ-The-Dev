@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TJ-The-Dev
+- 👋 Hi, I’m @TJ
 - 👀 I’m interested in web development. gaming, movies, traveling and basketball.
 - 🌱 I’m currently learning html, css, javascript and anything else I can get my mind on.
 - 💞️ I’m looking to collaborate on small projects and brainstorm any ideas for web development.
